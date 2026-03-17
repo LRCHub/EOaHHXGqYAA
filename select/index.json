@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "花無双",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2026-03-17T13:31:10.639017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "花無双",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": true,
+      "path": "select/01_花無双_アイナ・ジ・エンド.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "花無双",
+      "artist": "AiNA THE END",
+      "has_synced": false,
+      "path": "select/02_花無双_AiNA_THE_END.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "花無双 - Peerless Flowers",
+      "artist": "AiNA THE END",
+      "has_synced": true,
+      "path": "select/03_花無双_-_Peerless_Flowers_AiNA_THE_END.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花無双",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_花無双_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
